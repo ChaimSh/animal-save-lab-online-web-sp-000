@@ -8,8 +8,8 @@ html {
   right: 120px;
 }
 
-@media only screen and (max-width: 406px) and (min-width: 1170px) {
+@media only screen and (min-width: 406px) and (max-width: 1170px) {
   #monkey {
-    top: 1000px;
+    top: -550px;
   }
 }
